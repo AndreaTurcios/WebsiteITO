@@ -15,7 +15,7 @@
 .menu-fixed {
 	position:fixed;
   background-color: #f7faf5;
-  bottom: 455px;
+  bottom: 500px;
   right: 0;
   z-index:1000;
 }
