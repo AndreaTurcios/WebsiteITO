@@ -64,8 +64,8 @@ class plantillaHeader
                               </a>
                               <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
                                   <li><a class="dropdown-item" href="desarrollo_java.php">Desarollo de java</a></li>
-                                  <li><a class="dropdown-item" href="#">Aplicaciones de java</a></li>
-                                  <li><a class="dropdown-item" href="#">Beneficios de java</a></li>
+                                  <li><a class="dropdown-item" href="desarrollo_java.php #aplicacionesjava">Aplicaciones de java</a></li>
+                                  <li><a class="dropdown-item" href="beneficios_java.php">Beneficios de java</a></li>
                               </ul>
                           </li>
                           <li class="nav-item">
@@ -78,7 +78,7 @@ class plantillaHeader
                               <a class="nav-link active" aria-current="page" href="#">Solucion de comercios electronicos</a>
                           </li>
                           <li class="nav-item">
-                              <a class="nav-link active" aria-current="page" href="#">Solucion CRM</a>
+                              <a class="nav-link active" aria-current="page" href="#">Solución CRM</a>
                           </li>
                       </ul>
                   </div>
