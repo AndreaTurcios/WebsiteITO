@@ -5,8 +5,6 @@ include('../../app/helpers/plantillaHeader.php');
 plantillaHeader::headerTemplate('Home');
 ?>
 
-
-
 <div class="container-fluid">
     <div class="row ">
         <div id="carouselExampleIndicators" class="carousel slide" data-bs-ride="carousel">
